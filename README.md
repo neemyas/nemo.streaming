@@ -1,4 +1,4 @@
-# NEMO STREAM
+# NEMO STREAMING
 
 ### Web Streaming Project
 
